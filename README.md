@@ -1,6 +1,6 @@
 # Get Crackin' With Git using GitKraken
 
-This repository holds the source code for the MLH Localhost workshop Get Crakin' With Git using GitKraken.
+This repository holds the source code for the MLH Localhost workshop Get Crackin' With Git using GitKraken.
 
 ## Steps
 
